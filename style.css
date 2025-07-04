@@ -1,0 +1,9 @@
+body {
+  font-family: "Sarabun", sans-serif;
+}
+
+table td,
+table th {
+  vertical-align: middle;
+  text-align: center;
+}
